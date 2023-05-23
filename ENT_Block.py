@@ -29,7 +29,7 @@ else:
     limit = int(input("Enter the maximum character limit: "))
 
 # Ent Login Page URL (to be completed with the login page)
-url = 'https://cas.ecollege.haute-garonne.fr/login?selection=ATS_parent_eleve&service=https%3A%2F%2Fleon-blum.ecollege.haute-garonne.fr%2Fsg.do%3FPROC%3DIDENTIFICATION_FRONT&submit=Valider'
+url = 'https://ent.com/login'
 
 # Create a session
 session = requests.Session()
